@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1698232719 source:/home/tee/asm/CAOPj/main.s
+
+1698137433 source:/home/tee/asm/CAOPj/TrexDisplay.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+
+1698079937 source:/home/tee/asm/CAOPj/startTime.c
+	<time.h>
+
+1698137348 source:/home/tee/asm/CAOPj/obj_collision.s
+
+1698230485 source:/home/tee/asm/CAOPj/checkCollision.s
+
+1698232527 source:/home/tee/asm/CAOPj/gameDisplay.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+
+1698150068 source:/home/tee/asm/CAOPj/getTime.c
+	<time.h>
+
+1698232427 source:/home/tee/asm/CAOPj/checkCollisionX.s
+
+1698232422 source:/home/tee/asm/CAOPj/checkCollisionY.s
+
